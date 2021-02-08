@@ -5,12 +5,7 @@ Contains the material for the introduction to data analysis in Python taught at 
 If you would like to run the code on your local machine, the easiest way is to create a `conda` environment for this workshop. After [installing conda](https://docs.anaconda.com/anaconda/install/), you can type in your terminal:
 
 
-<html>
-      <head>
-        conda install -n tools -c conda-forge numpy matplotlib pandas jupyter
-        conda activate tools
-        jupyter notebook
-      </head>
-</html>
-
+       conda install -n tools -c conda-forge numpy matplotlib pandas jupyter
+       conda activate tools
+       jupyter notebook
 
