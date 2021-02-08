@@ -15,6 +15,6 @@ If you would like to run the code on your local machine, the easiest way is to c
 
 You can run the notebooks online. To run the notebooks on Google Colab:
 
-       1. Click on this badge for the first notebook:  <a href="https://colab.research.google.com/drive/1nLEw1rC63RGXrPwJT1qGKIcTjTUUfc0N"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-       2. Click on this badge for the second notebook:  <a href="https://colab.research.google.com/drive/1nLEw1rC63RGXrPwJT1qGKIcTjTUUfc0N"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+1. Click on this badge for the first notebook:  <a href="https://colab.research.google.com/drive/1nLEw1rC63RGXrPwJT1qGKIcTjTUUfc0N"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+2. Click on this badge for the second notebook:  <a href="https://colab.research.google.com/drive/1nLEw1rC63RGXrPwJT1qGKIcTjTUUfc0N"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
