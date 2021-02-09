@@ -18,4 +18,13 @@ You can run the notebooks online. To run the notebooks on Google Colab:
 1. Click on this badge for the first notebook:  <a href="https://colab.research.google.com/drive/1nLEw1rC63RGXrPwJT1qGKIcTjTUUfc0N"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 2. Click on this badge for the second notebook:  <a href="https://colab.research.google.com/drive/1sLvbp7ELU3VYV_EsB6Ac80AXxj78EdZf"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+## Exercises
+
+You can find the solutions to the exercises in the following links:
+
+1.   [Solution Exercises Part 1](./solutions/solutions_first_part.ipynb)
+2.   [Solution Exercises Part 2](./solutions/solutions_second_part.ipynb)
+
+To see how the solutions work, you will have to copy paste the code in the original notebooks of the first / second part.
+
 
