@@ -15,8 +15,8 @@ If you would like to run the code on your local machine, the easiest way is to c
 
 You can run the notebooks online. To run the notebooks on Google Colab:
 
-1. Click on this badge for the first notebook:  <a href="https://colab.research.google.com/drive/1wciAo9EpmMgyali120mfkkpdg9Xr9cj-?usp=sharing" target="_parent"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-2. Click on this badge for the second notebook:  <a href="https://colab.research.google.com/drive/1sLvbp7ELU3VYV_EsB6Ac80AXxj78EdZf"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+1. Click on this badge for the first notebook:  <a href="https://colab.research.google.com/drive/1wciAo9EpmMgyali120mfkkpdg9Xr9cj-" target="_parent"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+2. Click on this badge for the second notebook:  <a href="https://colab.research.google.com/drive/1qYtFPFZYgoI4AIkA0dfZbDwFd98Fs5D2"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 To open the entire repository on an online instance of Jupyter Notebook you can clik on the Binder badge: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/non87/Tools-of-the-trade/acddf0568b51309421626e0940f22e5704ea4c93)
 
